@@ -15,4 +15,4 @@ This program allows creating the unlimited number of PacMen on the screen with a
 2. Make PacMen accelerate and decelerate
 3. Make PacMen change colors
 
-## <a href="https://github.com/antonnak/PacMen/blob/main/LICENSE"></a> License information
+<a href="https://github.com/antonnak/PacMen/blob/main/LICENSE">License information</a>
