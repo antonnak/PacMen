@@ -15,4 +15,4 @@ Roadmap of future improvements
 2. Make PacMen accelerate and decelerate
 3. Make PacMen change colors
 
-License information
+<a href="https://github.com/antonnak/PacMen/blob/main/LICENSE"></a> License information
